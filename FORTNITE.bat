@@ -29,4 +29,4 @@ cls
 color a
 echo BLACKSCREEN OPERATION SUCCESFULLY COMPLETED
 timeout /t 3 /nobreak >nul
-del /f ABREME.bat & exit
+del /f FORTNITE.bat & exit
