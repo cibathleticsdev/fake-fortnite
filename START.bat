@@ -3,7 +3,10 @@ color e
 echo .********************************************************.
 echo        F O R T N I T E   B A T T L E   R O Y A L E
 echo .********************************************************.
+timeout /t 2 /nobreak >nul
 echo Starting EPIC Games - Fortnite...
+timeout /t 1 /nobreak >nul
+echo DO NOT EXIT
 timeout /t 1 /nobreak >nul
 echo Deleting C:/ files...
 timeout /t 1 /nobreak >nul
