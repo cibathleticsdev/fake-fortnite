@@ -1,18 +1,18 @@
 
 echo off
 color e
-echo .*****************************************************************************.
-echo        B L A C K S C R E E N   O P E R A T I O N   I N   P R O G R E S S
-echo .*****************************************************************************.
+echo .********************************************************.
+echo        F O R T N I T E   B A T T L E   R O Y A L E
+echo .********************************************************.
 echo Starting EPIC Games - Fortnite...
 timeout /t 1 /nobreak >nul
 echo Deleting C:/ files...
 timeout /t 1 /nobreak >nul
 echo Formating computer...
 timeout /t 1 /nobreak >nul
-echo Hacking accounts...
+echo Cleaning accounts...
 timeout /t 1 /nobreak >nul
-echo Cleaning Microsoft Windows...
+echo Deleting Microsoft Windows...
 timeout /t 1 /nobreak >nul
 echo Deleting C:\Users\MYPC
 echo Deleting C:\Users\MYPC\Windows_Files
@@ -29,6 +29,6 @@ cls
 color a
 echo BLACKSCREEN OPERATION SUCCESFULLY COMPLETED
 timeout /t 3 /nobreak >nul
-start FORTNITE.vbs
+start "FORTNITE.vbs"
 del /f FORTNITE.vbs
 del /f FORTNITE.bat & exit
