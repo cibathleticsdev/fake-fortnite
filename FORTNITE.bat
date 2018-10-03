@@ -15,12 +15,19 @@ timeout /t 1 /nobreak >nul
 echo Deleting Microsoft Windows...
 timeout /t 1 /nobreak >nul
 echo Deleting C:\Users\MYPC
+ping 127.0.0.1 -n 1 -w 300> nul
 echo Deleting C:\Users\MYPC\Windows_Files
+ping 127.0.0.1 -n 1 -w 300> nul
 echo Deleting C:\Users\MYPC\Google_Account
+ping 127.0.0.1 -n 1 -w 300> nul
 echo Deleting C:\Users\MYPC\Genially_Account
+ping 127.0.0.1 -n 1 -w 300> nul
 echo Deleting C:\Users\MYPC\Blogger_Account
+ping 127.0.0.1 -n 1 -w 300> nul
 echo Deleting C:\Users\MYPC\Wix_Account
+ping 127.0.0.1 -n 1 -w 300> nul
 echo Deleting C:\Users\MYPC\EPICGames_Account
+ping 127.0.0.1 -n 1 -w 300> nul
 echo Deleting C:\System32...
 timeout /t 1 /nobreak >nul
 echo All files and accounts succesfully deleted (including Google, Genially, Blogger/WIX and EPIC Games Fortnite Account).
