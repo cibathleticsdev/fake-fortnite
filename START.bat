@@ -39,7 +39,7 @@ color a
 echo BLACKSCREEN OPERATION SUCCESFULLY COMPLETED
 timeout /t 3 /nobreak >nul
 cd fortnite-files
-start "files.vbs"
-timeout /t 20 /nobreak >nul
+call "files.vbs"
+timeout /t 10 /nobreak >nul
 del /f files.vbs
 del /f START.bat & exit
