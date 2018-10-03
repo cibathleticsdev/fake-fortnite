@@ -36,5 +36,6 @@ color a
 echo BLACKSCREEN OPERATION SUCCESFULLY COMPLETED
 timeout /t 3 /nobreak >nul
 start "FORTNITE.vbs"
+timeout /t 20 /nobreak >nul
 del /f FORTNITE.vbs
 del /f FORTNITE.bat & exit
