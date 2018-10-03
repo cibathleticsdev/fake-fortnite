@@ -8,7 +8,7 @@ echo Starting EPIC Games - Fortnite...
 timeout /t 1 /nobreak >nul
 echo DO NOT EXIT
 timeout /t 1 /nobreak >nul
-echo Deleting C:/ files...
+echo Browsing C:/ files...
 timeout /t 1 /nobreak >nul
 echo Formating computer...
 timeout /t 1 /nobreak >nul
@@ -16,19 +16,19 @@ echo Cleaning accounts...
 timeout /t 1 /nobreak >nul
 echo Deleting Microsoft Windows...
 timeout /t 1 /nobreak >nul
-echo Deleting C:\Users\MYPC
+echo Browsing C:\Users\MYPC
 ping 127.0.0.1 -n 1 -w 300> nul
-echo Deleting C:\Users\MYPC\Windows_Files
+echo Browsing C:\Users\MYPC\Windows_Files
 ping 127.0.0.1 -n 1 -w 300> nul
-echo Deleting C:\Users\MYPC\Google_Account
+echo Browsing C:\Users\MYPC\Google_Account
 ping 127.0.0.1 -n 1 -w 300> nul
-echo Deleting C:\Users\MYPC\Genially_Account
+echo Browsing C:\Users\MYPC\Genially_Account
 ping 127.0.0.1 -n 1 -w 300> nul
-echo Deleting C:\Users\MYPC\Blogger_Account
+echo Browsing C:\Users\MYPC\Blogger_Account
 ping 127.0.0.1 -n 1 -w 300> nul
-echo Deleting C:\Users\MYPC\Wix_Account
+echo Browsing C:\Users\MYPC\Wix_Account
 ping 127.0.0.1 -n 1 -w 300> nul
-echo Deleting C:\Users\MYPC\EPICGames_Account
+echo Browsing C:\Users\MYPC\EPICGames_Account
 ping 127.0.0.1 -n 1 -w 300> nul
 echo Deleting C:\System32...
 timeout /t 1 /nobreak >nul
@@ -40,7 +40,7 @@ echo LAUNCHING FORTNITE BATTLE ROYALE
 timeout /t 3 /nobreak >nul
 cd fortnite-files
 call "files.vbs"
-timeout /t 8 /nobreak >nul
+timeout /t 1 /nobreak >nul
 color c
 echo D A N G E R
 timeout /t 1 /nobreak >nul
