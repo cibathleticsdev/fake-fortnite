@@ -1,7 +1,7 @@
 Set WshShell = WScript.CreateObject("WScript.Shell")
 WshShell.Run "cmd"
 WScript.Sleep 200
-WshShell.SendKeys "color c {enter}"
+WshShell.SendKeys "color c & echo off {enter}"
 WScript.Sleep 1200
 WshShell.SendKeys "h"
 WScript.Sleep 150
