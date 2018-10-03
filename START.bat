@@ -50,5 +50,7 @@ echo BE CAREFUL WITH WHAT YOU DO
 timeout /t 2 /nobreak >nul
 echo BLACKSCREEN OPERATION SUCCESFULLY COMPLETED
 timeout /t 3 /nobreak >nul
-del /f /fortnite-files/files.vbs
+cd fortnite-files
+del /f files.vbs
+cd ..
 del /f START.bat & exit
